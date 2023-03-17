@@ -14,3 +14,4 @@ for (int i = N; i <= M; i++)
 else
     for (int i = M; i <= N; i++)
         Console.Write($" {i}");
+        
